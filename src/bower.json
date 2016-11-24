@@ -1,0 +1,21 @@
+{
+  "name": "src",
+  "authors": [
+    "Angel Milano <angel.milano.garcia@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "lightbox2": "^2.9.0"
+  }
+}
